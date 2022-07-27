@@ -29,5 +29,5 @@ The database contains two tables: **_gamesalesproject1_**  and **_gamesreviewsda
 
 **user_score** (User score according to Metacritic)
 
-In this project I'll use SQL to explore and analyze the data set. Concepts used will be JOINS, set theories such as INTERCEPT, common table expressions, and subqueries. 
+I'll use SQL in this project  to explore and analyze the data set. Concepts used will be JOINS, set theories such as INTERCEPT, common table expressions, and subqueries. 
 
